@@ -3,3 +3,4 @@ src/models/__pycache__/
 src/resources/__pycache__/
 src/server/__pycache__/
 /.idea/flask_api_workshop.iml
+flask_env/
