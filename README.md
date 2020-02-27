@@ -5,5 +5,5 @@ To set up API:
 3. Create a virtual environment with `python3 -m venv flask_env`
 4. Source the virtual environment using `source flask_env/bin/activate`
 5. Install the dependencies for the project with `pip install -r requirements.txt`
-6. In the `src` directory run: `python3 main.py` and then navigate to `127.0.0.1:5000/books/docs`
+6. In the `src` directory run: `python3 main.py` and then navigate to `http://127.0.0.1:5000/books/docs`
 
